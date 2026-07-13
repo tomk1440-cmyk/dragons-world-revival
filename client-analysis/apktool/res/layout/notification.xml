@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#317c0c" android:layout_width="match_parent" android:layout_height="64.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:background="#317c0c" android:layout_width="match_parent" android:layout_height="64.0dp">
+        <ImageView android:layout_gravity="right|top" android:id="@id/imageRight" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/right_logo" android:scaleType="fitEnd" android:adjustViewBounds="true" />
+        <ImageView android:layout_gravity="left|top" android:id="@id/imageLeft" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/left_logo" android:scaleType="fitStart" android:adjustViewBounds="true" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/textLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="68.0dp" android:layout_marginRight="68.0dp">
+        <TextView android:textSize="20.0sp" android:textColor="#fff" android:ellipsize="end" android:id="@id/textTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+        <TextView android:textSize="14.0sp" android:textColor="#fff" android:ellipsize="end" android:id="@id/textMessage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" />
+    </LinearLayout>
+</RelativeLayout>

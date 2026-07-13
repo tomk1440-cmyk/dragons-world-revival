@@ -1,0 +1,46 @@
+version: 3.0.2
+apkFileName: com.sq.dragonsworld.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 15
+  targetSdkVersion: 23
+versionInfo:
+  versionCode: 198713
+  versionName: 1.98713
+resourcesInfo:
+  packageId: 127
+  keepRawValues: true
+doNotCompress:
+- arsc
+- png
+- assets/bin/Data/1f8eedf1bb72769419d676ea6f763eba.resource
+- assets/bin/Data/22c43e3bd4a9144e496edaaf6886bec1.resource
+- assets/bin/Data/2422ec91a1fd7144c881dd798c47a515.resource
+- assets/bin/Data/2a351265055a8d246acbe987c8fbe329.resource
+- assets/bin/Data/2d70fd1d565634755bdce669d8004ea3.resource
+- assets/bin/Data/2e548f3bf846a7141a63c0bdbc077703.resource
+- assets/bin/Data/3c2fc98fe1501e447ba9b33866b6420e.resource
+- assets/bin/Data/5b1b2ddcced564840a7c686f8202b424.resource
+- assets/bin/Data/63cc39b2cfe5a477fad08cbc83ae8dcc.resource
+- assets/bin/Data/67c2d02f8c9be4e4f902987e608a9efa.resource
+- assets/bin/Data/6b8bbaf547250416d88ebb77b479c978.resource
+- assets/bin/Data/71bfa5d95988d3b4e87412268f599e05.resource
+- assets/bin/Data/751887151b65f6642b8fc3798c724a21.resource
+- assets/bin/Data/843855a3075557c41992adccb6d8ce31.resource
+- assets/bin/Data/8efd149bdbd65fe47aec142b8352d20a.resource
+- assets/bin/Data/913c49355fb82594b8c941fde6177c31.resource
+- assets/bin/Data/967962ee67eea4e6296349d6c13e352a.resource
+- assets/bin/Data/9da55275bd8ee4811a80bca7f60d252c.resource
+- assets/bin/Data/a836326814a26443b8d4217060c82bd5.resource
+- assets/bin/Data/boot.config
+- assets/bin/Data/d1ba73a1edf71464da1e19ea9364ed8d.resource
+- assets/bin/Data/e9d8a76f48eb843d69c74a0a2ea5b644.resource
+- assets/bin/Data/f2635f764b98c9642990c8562590de21.resource
+- assets/bin/Data/f6eb80d6c76ae2b49b02377463755c64.resource
+- assets/bin/Data/faa395b623d988a4f97d8be8ef9bc28a.resource
+- assets/bin/Data/fc58101442a650d409b0c731bdb87f4b.resource
+- assets/crashlytics-build.properties
+- res/raw/amazon_gc_prototype.zip
+- res/raw/dragoniconlambertmatambient.vbl
