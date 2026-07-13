@@ -1,0 +1,12 @@
+tools/
+
+# Large reverse-engineering outputs (kept local)
+client-analysis/apktool/
+client-analysis/jadx/
+
+# Raw binaries and captures
+client-analysis/*.apk
+captures/raw/
+captures/logs/
+
+# Keep annotated notes/csv/md under captures/docs/client-analysis
